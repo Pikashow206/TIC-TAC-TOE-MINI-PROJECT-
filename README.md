@@ -9,6 +9,7 @@ The UI is fully responsive and uses a beautiful blue/teal/green palette:
 - #95b2b0 (Muted teal)
 - #c6ebbe (Light green)
 
+These are the colors i added.
 ## Features
 
 - Clean, responsive layout
